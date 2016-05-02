@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jboss.pnc.test</groupId>
   <artifactId>pnc-simple-test-project</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <description>Simple project for running test builds</description>
   <dependencies>
     <dependency>
